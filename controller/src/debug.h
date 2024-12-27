@@ -5,7 +5,8 @@
  * DEBUG macro is defined.
  */
 
-#ifndef _DEBUG_H
+#ifndef DEBUG_H
+
 #define DEBUG_H
 
 #ifdef DEBUG
